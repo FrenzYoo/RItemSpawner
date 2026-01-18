@@ -15,10 +15,6 @@ RItemSpawner is an advanced **item spawner plugin** for Minecraft servers. Inste
 * 🧩 Lightweight and performance-friendly
 * ⛏️ **Silk Touch check** (optional)
 
-  * Can be enabled or disabled
-  * Prevents placing spawners without a Silk Touch pickaxe
-  * Sends a delayed warning message if the player does not have Silk Touch
-
 ---
 
 ## 🧠 How It Works
